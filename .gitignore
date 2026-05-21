@@ -1,0 +1,6 @@
+rag_storage/
+my_results/
+build/
+__pycache__/
+.venv/
+.idea/
